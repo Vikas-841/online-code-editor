@@ -54,7 +54,7 @@ function App() {
       <div className='flex flex-row justify-between p-5 text-3xl'>
 
         <h1 className='font-bold '>OP-<span className='text-red-500 font-bold '>IDE 🔥</span></h1>
-        <a href="https://github.com/dipayansarkar47/online-code-editor" className='ml-auto gap-1 text-xl bg-black text-white px-2 py-1 rounded flex justify-end items-center' target='_blank' rel='noreferrer'>
+        <a href="https://github.com/" className='ml-auto gap-1 text-xl bg-black text-white px-2 py-1 rounded flex justify-end items-center' target='_blank' rel='noreferrer'>
 
           <FaGithubSquare className='text-3xl' />
           <h2 className='font-semibold'>Github</h2>
